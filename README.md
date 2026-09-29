@@ -1,6 +1,6 @@
-# Hello, I'm Hamoud Alaibani 👋
+# Hello, I'm Hamoud Alaibani 
 
-Specialized in **Artificial Intelligence & Data Analysis** 🤖📊
+Specialized in **Artificial Intelligence & Data Analysis** 
 
 ---
 
