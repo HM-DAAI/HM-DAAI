@@ -13,6 +13,16 @@ Specialized in **Artificial Intelligence & Data Analysis**
 
 ---
 
+###  My Projects 
+
+<p align="left">
+  <a href="https://github.com/HM-DAAI/Aqar-Hunter">
+    <img src="https://github.com/HM-DAAI/Aqar-Hunter/blob/main/logo.png?raw=true" width="250" alt="Aqar Hunter" />
+  </a>
+</p>
+
+---
+
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/hamoud-alaibani-7bb892434">
